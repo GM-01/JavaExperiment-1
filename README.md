@@ -8,9 +8,13 @@
 ### 三、解题思路
 
 ### 四、关键代码
-  ···
-  code
-  ···
+
+```
+hd.setTradeName("WD");
+pc.setCPU(cpu);
+pc.setHardDisk(hd);
+pc.show();
+```
 ### 五、实验结果
 
 ### 六、实验感想
